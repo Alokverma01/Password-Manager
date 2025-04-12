@@ -16,4 +16,4 @@ A lightweight, secure, and easy-to-use Password Manager built with **React.js**,
 
 ## 📸 Screenshots
 
-![Screenshot](screenshots/screenshot.png)`
+![Screenshot](public/screenshot.png)`
