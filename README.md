@@ -5,9 +5,6 @@ A lightweight, secure, and easy-to-use Password Manager built with **React.js**,
 ## 🚀 Features
 
 - Add, view, edit, and delete saved passwords
-- Search functionality for quick access
-- Password masking and reveal toggle
-- Responsive design with TailwindCSS
 - Data persistence using browser's `localStorage`
 - Minimal and intuitive UI
 
