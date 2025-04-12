@@ -13,7 +13,3 @@ A lightweight, secure, and easy-to-use Password Manager built with **React.js**,
 - [React.js](https://reactjs.org/)
 - [TailwindCSS](https://tailwindcss.com/)
 - [LocalStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
-
-## 📸 Screenshots
-
-![Screenshot](public/screenshot.png)`
